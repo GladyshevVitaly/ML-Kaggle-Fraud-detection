@@ -13,6 +13,9 @@ https://www.kaggle.com/c/geekbrains-competitive-data-analysis
 - Полносвязная
 - CNN
 
-Leaderboard
+## Результат
 
-https://www.kaggle.com/c/geekbrains-competitive-data-analysis/leaderboard
+__ROC AUC: 0.73315__
+
+__Leaderboard__
+<br>https://www.kaggle.com/c/geekbrains-competitive-data-analysis/leaderboard
